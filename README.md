@@ -40,12 +40,12 @@ Update the chart whenever a new sample is selected.
 
 
 
-##Example of a patient with a high number of belly button washes per week.
-##Subject 952 Dashboard:
+## Example of a patient with a high number of belly button washes per week.
+## Subject 952 Dashboard:
 ![image](https://github.com/CMccormick0003/belly-button-challenge/assets/120672518/d2415bf0-ec5e-4557-92c8-e6340c466322)
 ![image](https://github.com/CMccormick0003/belly-button-challenge/assets/120672518/377f4ea6-e008-416f-b37f-c8e07ce310fd)
 
-##Example of a patient with a low number of belly button washes per week.
-##Subject 1601 Dashboard**
+## Example of a patient with a low number of belly button washes per week.
+## Subject 1601 Dashboard:
 ![image](https://github.com/CMccormick0003/belly-button-challenge/assets/120672518/d03d6063-b2a5-4ddd-9baa-f7bfa42bfdaf)
 ![image](https://github.com/CMccormick0003/belly-button-challenge/assets/120672518/250be042-8505-4b3f-92ac-cd785b357567)
